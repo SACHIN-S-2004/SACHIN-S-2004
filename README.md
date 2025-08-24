@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Next JS, Three JS, 3D Modelling**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SACHIN-S-2004/](https://github.com/SACHIN-S-2004/)
-
 - 📫 How to reach me **sachinsuresh9562@gmail.com**
 
 
