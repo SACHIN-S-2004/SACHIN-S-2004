@@ -1,69 +1,197 @@
-<h1 align="center">Hi 👋, I'm SACHIN SURESH</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-s-2004&label=Profile%20views&color=77099f&style=plastic" alt="sachin-s-2004" /> </p>
-
-- 🔭 I’m currently working on [CrackIt](https://crackit-ghy3.onrender.com/)
-
-- 🌱 I’m currently learning **Next JS, Three JS, 3D Modelling**
-
-- 📫 How to reach me **sachinsuresh9562@gmail.com**
-
-
-# 💻 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-
-# 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin-s-2004&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+<p align="center">
+ <img src="welcome.svg"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-s-2004&theme=dark" alt="GitHub Streak" />
+<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> &nbsp;About me✌🏻 <img align="right" src="https://komarev.com/ghpvc/?username=sachin-s-2004&label=Profile%20views&color=77099f&style=plastic" alt="sachin-s-2004" /></h2>
+
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/YU_C1sgrrCkAAAAC/hacker.gif">
+
+- 💡 I’m an **MCA Student** at **Saintgits College of Engineering**, **Kerala**, **India**
+
+- 🔐 I’m currently into **AI** | **Machine Learning** | **Deep Learning**
+
+- 💻 Interested in **Web Development** and **Applied AI**, designing and deploying intelligent systems using **Machine Learning** and **Deep Learning**
+
+- 🛡️ Planning to dive into **Cybersecurity** after mastering the ML & DL stack
+
+- 🚀 Passionate about bridging **AI** and real-world problem solving
+
+- 🌱 Always learning — currently exploring **model deployment** and **MLOps** practices
+
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/SACHIN-S-2004?label=Follow&style=social)](https://github.com/SACHIN-S-2004)
+<br clear="both" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+## 💻 Tech Stack
+
+<table>
+  <tr>
+    <td><b>🗣️ Languages</b></td>
+    <td>
+      <br>
+      <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td>
+      <br>
+      <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/></a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend</b></td>
+    <td>
+      <br>
+      <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/></a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Database</b></td>
+    <td>
+      <br>
+      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 AI / ML</b></td>
+    <td>
+      <br>
+      <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://keras.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://matplotlib.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🚀 Deployment & Tools</b></td>
+    <td>
+      <br>
+      <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://httpd.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://vercel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+      &nbsp;&nbsp;
+      <a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/></a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+## 🚧 Projects
+
+<ul>
+<li>
+
+### **[CrackIt 📝](https://github.com/SACHIN-S-2004/CrackIt)** [![](https://img.shields.io/badge/Live-brightgreen?style=flat&logo=googlechrome&logoColor=white)](https://crackit-ghy3.onrender.com/)
+CrackIt is an aptitude testing platform that enables users to assess their knowledge across diverse categories and improve through targeted feedback. Designed for learners and job-seekers alike, it offers structured tests, performance tracking, and a pathway to continuous growth.
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT`
+
+</li>
+<li>
+
+### **[Framzy 🎞️](https://github.com/SACHIN-S-2004/Framzy)** [![](https://img.shields.io/badge/Live-brightgreen?style=flat&logo=googlechrome&logoColor=white)](https://framzy.onrender.com/)
+Framzy is a wallpaper exploration hub that lets users explore, search, and download high-quality images across diverse categories. Designed for personalization and aesthetics, it offers curated collections, responsive browsing, and a seamless experience with dark/light mode and animated backgrounds.
+
+`React` `Node.js` `Express.js` `MongoDB` `TailwindCSS`
+
+</li>
+<li>
+
+### **[BeneFit 💪🏻](https://github.com/SACHIN-S-2004/BeneFit)**
+BeneFit is an AI-powered personalized diet and fitness recommendation system that combines machine learning with medical rule-based logic to deliver safe, goal-oriented nutrition plans. Built using PHP, Flask, and MySQL.
+
+`PHP` `Flask` `MySQL` `scikit-learn` `Python`
+
+</li>
+<li>
+
+### **[Sentiment-Analysis 😊](https://github.com/SACHIN-S-2004/Sentiment-Analysis-using-ANN)**
+A Flask web app powered by TensorFlow and Keras that uses an Artificial Neural Network to classify text reviews as Positive, Negative, or Neutral. It applies text tokenization and sequence padding to process input, delivering real-time sentiment predictions with a clean, responsive UI.
+
+`Flask` `TensorFlow` `Keras` `Python` `ANN`
+
+</li>
+<li>
+
+### **[Image-Compression 🖼️](https://github.com/SACHIN-S-2004/Image-Compression)**
+A modern Flask web application built with Flask, OpenCV, and Scikit-Learn. It applies K-Means clustering to reduce color complexity, significantly shrinking file size while preserving visual quality, with live preview and compression statistics.
+
+`Flask` `OpenCV` `scikit-learn` `Python` `K-Means`
+
+</li>
+</ul>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sachin-s-2004&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-s-2004&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## 🏆 GitHub Trophies
+## 🌐 Socials
 
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=sachin-s-2004" alt="sachin-s-2004" />
-    </a> 
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-suresh-b4b045259)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachinsuresh9562@gmail.com)
