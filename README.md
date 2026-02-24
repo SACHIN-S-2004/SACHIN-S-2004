@@ -185,9 +185,10 @@ A modern Flask web application built with Flask, OpenCV, and Scikit-Learn. It ap
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sachin-s-2004&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=SACHIN-S-2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SACHIN-S-2004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SACHIN-S-2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
